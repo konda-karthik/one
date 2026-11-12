@@ -59,7 +59,7 @@
   </snapshots>
 </repository>
         <snapshotRepository>
-            <id>Myrepo</id>
+            <id>nexusRepo</id>
             <url>http://18.61.164.114:8081/repository/Myrepo/</url>
         </snapshotRepository>
     </distributionManagement>
